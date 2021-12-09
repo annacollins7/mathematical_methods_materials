@@ -1,4 +1,4 @@
-# mathematical_methods_materials
+# Mathematical Methods Additional Materials
 
 
 This is a repository of extra materials for students of MA212 at LSE and anyone else interested in Mathematical Methods!

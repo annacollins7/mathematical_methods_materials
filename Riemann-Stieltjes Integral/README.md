@@ -1,1 +1,1 @@
-# Riemann Integral
+# Riemann-Stieltjes Integral

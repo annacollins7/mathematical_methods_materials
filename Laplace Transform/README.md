@@ -1,1 +1,1 @@
-# Riemann Integral
+# Laplace Transform
